@@ -1,0 +1,13 @@
+@import "./base.css";
+
+.letter.not-in-word {
+  background-color: #876;
+}
+
+.letter.correct {
+  background-color: #680;
+}
+
+.letter.in-word {
+  background-color: #da2;
+}

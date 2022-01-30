@@ -1,0 +1,8 @@
+.clue {
+  display: flex;
+  align-items: center;
+  flex-wrap: nowrap;
+}
+
+.guessNumber {
+}

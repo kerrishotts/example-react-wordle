@@ -1,0 +1,14 @@
+@import "./base.css";
+
+.guess {
+  display: flex;
+  align-items: center;
+  flex-wrap: nowrap;
+}
+
+.submit {
+  background-color: #068;
+}
+.submit:active {
+  box-shadow: none;
+}
